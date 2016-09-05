@@ -1,0 +1,31 @@
+{
+  "name": "react-gallerys",
+  "version": "1.0.0",
+  "description": "one photo gallery based on react",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^4.2.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1",
+    "sass": "^0.5.0",
+    "sass-loader": "^4.0.1",
+    "babel-loader": "^6.2.5",
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junjun520/react-gallerys.git"
+  },
+  "author": "jun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junjun520/react-gallerys/issues"
+  },
+  "homepage": "https://github.com/junjun520/react-gallerys#readme"
+}
