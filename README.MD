@@ -1,8 +1,8 @@
 
-# 技术: react es6 webpack
+## 技术: react es6 webpack
 
-install dependencies
+####install dependencies
 npm install
 
-serve in production mode
+####serve in production mode
 npm start
