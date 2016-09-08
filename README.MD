@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 ## 技术: react es6 webpack
 
 ####install dependencies
