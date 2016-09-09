@@ -6,3 +6,6 @@ npm install
 
 ####serve in production mode
 npm start
+
+
+####http://localhost:8080/
